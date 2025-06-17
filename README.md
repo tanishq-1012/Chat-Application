@@ -10,3 +10,12 @@ ChatCord is a real-time chat application that allows multiple users to communica
 - Room-based user tracking and notifications
 - Simple and clean user interface
 - Built-in timestamping for chat messages
+
+## 🛠️ Technologies Used
+
+| Frontend | Backend         | Utilities/Packages    |
+|----------|------------------|------------------------|
+| HTML     | Node.js          | dotenv                 |
+| CSS      | Express.js       | moment.js              |
+| JavaScript | Socket.io (client) | nodemon (dev only)   |
+|          | Socket.io (server) | redis + redis adapter |
