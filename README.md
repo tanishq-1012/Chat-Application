@@ -19,3 +19,5 @@ ChatCord is a real-time chat application that allows multiple users to communica
 | CSS      | Express.js       | moment.js              |
 | JavaScript | Socket.io (client) | nodemon (dev only)   |
 |          | Socket.io (server) | redis + redis adapter |
+
+## 📁 Project Structure
