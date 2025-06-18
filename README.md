@@ -71,3 +71,13 @@ chatcord/
 2.Handle WebSocket connections using Socket.io
 
 3.Manage room joining, message sending, and disconnection events
+
+**Chat Client Responsibilities:**
+
+1.Connect to the Socket.io server
+
+2.Ask the user for a name and chat room
+
+3.Emit messages and listen for server broadcasts
+
+4.Dynamically update the chat UI
