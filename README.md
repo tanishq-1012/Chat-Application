@@ -51,5 +51,11 @@ chatcord/
    cd chatcord
 
 2. Install dependencies:
+
    npm install
+
+3. Run in development mode:
+
+   npm run dev
+
 
