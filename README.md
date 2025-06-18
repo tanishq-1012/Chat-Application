@@ -49,3 +49,7 @@ chatcord/
    ```bash
    git clone https://github.com/your-username/chatcord.git
    cd chatcord
+
+2. Install dependencies:
+   npm install
+
