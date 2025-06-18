@@ -42,3 +42,10 @@ chatcord/
 ├── .env # Environment variables (optional)
 
 └── README.md # Project documentation
+
+## 📦 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/chatcord.git
+   cd chatcord
