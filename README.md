@@ -58,4 +58,9 @@ chatcord/
 
    npm run dev
 
+4. Open your browser and go to:
+
+   http://localhost:3000
+
+
 
