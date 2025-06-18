@@ -24,12 +24,21 @@ ChatCord is a real-time chat application that allows multiple users to communica
 
 chatcord/
 │
+
 ├── public/
+
 │ ├── css/
+
 │ ├── js/
+
 │ └── index.html
+
 │
+
 ├── server.js # Main Node.js server
+
 ├── package.json # Project metadata and dependencies
+
 ├── .env # Environment variables (optional)
+
 └── README.md # Project documentation
