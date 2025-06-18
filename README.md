@@ -89,3 +89,7 @@ ChatCord is more than just a messaging app—it's a demonstration of how real-ti
 This project not only strengthened our understanding of WebSocket communication, server-client architecture, and event-driven programming, but also gave us hands-on experience in full-stack development.
 
 We’re proud to present ChatCord as our academic project and excited to continue exploring the world of real-time applications.
+
+## 👨‍💻 Developed By
+
+Tanishq Sharma
