@@ -62,4 +62,12 @@ chatcord/
 
    http://localhost:3000
 
-# 🧠 How It Works
+## 🧠 How It Works
+
+**Chat Server Responsibilities:**
+
+1.Serve static HTML/CSS/JS files
+
+2.Handle WebSocket connections using Socket.io
+
+3.Manage room joining, message sending, and disconnection events
